@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Dashboard-Fede-React/static/css/main.c7b2fdcd.chunk.css",
-    "main.js": "/Dashboard-Fede-React/static/js/main.a99dc46b.chunk.js",
-    "main.js.map": "/Dashboard-Fede-React/static/js/main.a99dc46b.chunk.js.map",
-    "runtime-main.js": "/Dashboard-Fede-React/static/js/runtime-main.d54cbdbd.js",
-    "runtime-main.js.map": "/Dashboard-Fede-React/static/js/runtime-main.d54cbdbd.js.map",
+    "main.js": "/Dashboard-Fede-React/static/js/main.f1ab5367.chunk.js",
+    "main.js.map": "/Dashboard-Fede-React/static/js/main.f1ab5367.chunk.js.map",
+    "runtime-main.js": "/Dashboard-Fede-React/static/js/runtime-main.cf7fa495.js",
+    "runtime-main.js.map": "/Dashboard-Fede-React/static/js/runtime-main.cf7fa495.js.map",
     "static/css/2.5b35f3f9.chunk.css": "/Dashboard-Fede-React/static/css/2.5b35f3f9.chunk.css",
-    "static/js/2.f31d3c97.chunk.js": "/Dashboard-Fede-React/static/js/2.f31d3c97.chunk.js",
-    "static/js/2.f31d3c97.chunk.js.map": "/Dashboard-Fede-React/static/js/2.f31d3c97.chunk.js.map",
+    "static/js/2.be3bfc73.chunk.js": "/Dashboard-Fede-React/static/js/2.be3bfc73.chunk.js",
+    "static/js/2.be3bfc73.chunk.js.map": "/Dashboard-Fede-React/static/js/2.be3bfc73.chunk.js.map",
     "index.html": "/Dashboard-Fede-React/index.html",
     "static/css/2.5b35f3f9.chunk.css.map": "/Dashboard-Fede-React/static/css/2.5b35f3f9.chunk.css.map",
     "static/css/main.c7b2fdcd.chunk.css.map": "/Dashboard-Fede-React/static/css/main.c7b2fdcd.chunk.css.map",
-    "static/js/2.f31d3c97.chunk.js.LICENSE.txt": "/Dashboard-Fede-React/static/js/2.f31d3c97.chunk.js.LICENSE.txt",
-    "static/js/main.a99dc46b.chunk.js.LICENSE.txt": "/Dashboard-Fede-React/static/js/main.a99dc46b.chunk.js.LICENSE.txt",
+    "static/js/2.be3bfc73.chunk.js.LICENSE.txt": "/Dashboard-Fede-React/static/js/2.be3bfc73.chunk.js.LICENSE.txt",
+    "static/js/main.f1ab5367.chunk.js.LICENSE.txt": "/Dashboard-Fede-React/static/js/main.f1ab5367.chunk.js.LICENSE.txt",
     "static/media/argon-react-white.png": "/Dashboard-Fede-React/static/media/argon-react-white.e4dd3b41.png",
     "static/media/argon-react.png": "/Dashboard-Fede-React/static/media/argon-react.128d71d3.png",
     "static/media/all.min.css": "/Dashboard-Fede-React/static/media/fa-solid-900.f4f93856.woff",
@@ -20,10 +20,10 @@
     "static/media/team-1-800x800.jpg": "/Dashboard-Fede-React/static/media/team-1-800x800.fa5a7ac2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d54cbdbd.js",
+    "static/js/runtime-main.cf7fa495.js",
     "static/css/2.5b35f3f9.chunk.css",
-    "static/js/2.f31d3c97.chunk.js",
+    "static/js/2.be3bfc73.chunk.js",
     "static/css/main.c7b2fdcd.chunk.css",
-    "static/js/main.a99dc46b.chunk.js"
+    "static/js/main.f1ab5367.chunk.js"
   ]
 }
